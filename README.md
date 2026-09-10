@@ -5,4 +5,4 @@ This software only requires pygame's library. Install with following command in 
 
     pip install pygame
 
-If u use this software or part of it, please consider to refer original author. And if u want to be very very very grateful and want to buy me a coffe..... u re welcome  :x 
+If u use this software or part of it, please consider to refer original author. And if u want to be very very very grateful and want to send a tip..... u re welcome  :x 
